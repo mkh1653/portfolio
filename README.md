@@ -1,2 +1,2 @@
 # portfolio
-initial my work and resume
+Introduction my work and resume
